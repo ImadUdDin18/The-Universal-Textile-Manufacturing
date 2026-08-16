@@ -1,0 +1,6 @@
+{
+  "name": "The Universal Textile Manufacturing",
+  "description": "Ultra-premium e-commerce and B2B wholesale platform for The Universal Textile Manufacturing Sdn Bhd in Menara City One, Kuala Lumpur, Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
